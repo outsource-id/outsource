@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://outsource-id.github.io/outsource/badges/google-data-analytics/badgeclass.jsonld",
+  "type": "BadgeClass",
+  "name": "Google Data Analytics Professional Certificate",
+  "description": "Professional Certificate issued for completing Google Data Analytics program on Coursera.",
+  "image": "https://outsource-id.github.io/outsource/badges/google-data-analytics/google-data-analytics-baked.png",
+  "criteria": {
+    "narrative": "Earners completed the Google Data Analytics Professional Certificate program on Coursera."
+  },
+  "issuer": "https://outsource-id.github.io/outsource/badges/google-data-analytics/issuer.jsonld"
+}
