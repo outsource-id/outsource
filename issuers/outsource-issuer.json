@@ -1,0 +1,10 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://outsource-id.github.io/outsource/issuers/outsource-issuer.json",
+  "name": "Outsource ID",
+  "url": "https://github.com/outsource-id/outsource",
+  "description": "Outsource ID is an open credential lab from Indonesia issuing Open Badges for technology, data, and AI certifications.",
+  "email": "admin@outsource.id",
+  "image": "https://avatars.githubusercontent.com/u/151945605?s=200&v=4"
+}
