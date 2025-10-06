@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://outsource-id.github.io/outsource/badges/google-data-analytics.json",
+  "name": "Google Data Analytics Professional Certificate",
+  "description": "This professional certificate, issued by Google via Coursera, validates practical data analytics skills including data cleaning, visualization, and statistical analysis using R, SQL, and Tableau.",
+  "image": "https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png",
+  "criteria": {
+    "narrative": "Earners completed 8 courses and hands-on projects covering data analysis fundamentals, culminating in a capstone project using R, SQL, and Tableau."
+  },
+  "issuer": "https://outsource-id.github.io/outsource/issuers/outsource-issuer.json"
+}
