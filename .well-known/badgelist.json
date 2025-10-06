@@ -1,10 +1,10 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "type": "Badges",
+  "type": "BadgeList",
   "id": "https://outsource-id.github.io/outsource/.well-known/badgelist.json",
-  "issuer": "https://outsource-id.github.io/outsource/issuers/outsource-issuer.json",
+  "name": "Outsource Open Badges Directory",
+  "issuer": "https://outsource-id.github.io/outsource/issuers/google.json",
   "badges": [
-    "https://outsource-id.github.io/outsource/badges/google-data-analytics.json",
-    "https://outsource-id.github.io/outsource/badges/google-cybersecurity.json"
+    "https://outsource-id.github.io/outsource/badges/google-data-analytics/badgeclass.json"
   ]
 }
