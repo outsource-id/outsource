@@ -1,0 +1,21 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://outsource-id.github.io/outsource/badges/google-data-analytics/assertion.jsonld",
+  "type": "Assertion",
+  "recipient": {
+    "type": "email",
+    "name": "Martinus Bambang Wijayanto",
+    "hashed": true,
+    "identity": "sha256$da73dfed0872a6eba87a1a9ee4c23e145e0b081f949eb99acdcfacce891faccf",
+    "salt": "outsourceid"
+  },
+  "badge": "https://outsource-id.github.io/outsource/badges/google-data-analytics/badgeclass.jsonld",
+  "issuedOn": "2025-06-26T00:00:00+07:00",
+  "evidence": {
+    "id": "https://coursera.org/verify/professional-cert/IIZFO1V19R5E",
+    "narrative": "Verification of certificate completion via Coursera public record"
+  },
+  "verification": {
+    "type": "HostedBadge"
+  }
+}
