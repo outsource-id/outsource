@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://outsource-id.github.io/outsource/badges/google-data-analytics/badgeclass.jsonld",
+  "name": "Google Data Analytics Professional Certificate",
+  "description": "This badge signifies the completion of the Google Data Analytics Professional Certificate, covering data cleaning, visualization, and analysis using R and SQL.",
+  "image": "https://outsource-id.github.io/outsource/badges/google-data-analytics/google-data-analytics-baked.png",
+  "criteria": {
+    "narrative": "Earners complete eight courses that develop foundational data analytics skills, including spreadsheets, SQL, R programming, and data visualization."
+  },
+  "issuer": "https://outsource-id.github.io/outsource/issuers/google.json"
+}
