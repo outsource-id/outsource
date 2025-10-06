@@ -1,0 +1,10 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://outsource-id.github.io/outsource/issuers/google.json",
+  "name": "Google",
+  "description": "Google offers professional certifications that prepare learners for in-demand jobs in technology, including data analytics, IT support, project management, and UX design.",
+  "url": "https://grow.google",
+  "email": "certificates@google.com",
+  "image": "https://images.credly.com/size/200x200/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png"
+}
