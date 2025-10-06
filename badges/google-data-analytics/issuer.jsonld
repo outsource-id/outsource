@@ -1,0 +1,9 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://outsource-id.github.io/outsource/badges/google-data-analytics/issuer.jsonld",
+  "type": "Issuer",
+  "name": "Outsource ID",
+  "url": "https://outsource-id.github.io/outsource/",
+  "email": "info@outsource.id",
+  "description": "Digital credential issuer for Outsource ID portfolio and certification projects."
+}
